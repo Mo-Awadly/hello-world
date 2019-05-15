@@ -1,0 +1,12 @@
+{
+    "name": "ta7ady/hello-world",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "homepage": "https://github.com/Ta7ady/hello-world",
+    "authors": [
+        {
+            "name": "Mohammad Al-Awadly",
+            "email": "moa@mo-a.me"
+        }
+    ]
+}
